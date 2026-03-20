@@ -30,3 +30,17 @@ The programs are designed as part of lab exercises and assignments, focusing on 
 
 ## 📂 Repository Structure
 
+### 🔹 Polynomial
+- Polynomial representation using lists
+- Supports addition, subtraction, multiplication
+- Evaluation and derivative
+- Quadratic root finding
+
+### 🔹 Shape
+- Base Shape class
+- Derived classes (e.g., Circle, Rectangle)
+- Demonstrates inheritance and polymorphism
+- Area and perimeter calculations
+
+---
+
