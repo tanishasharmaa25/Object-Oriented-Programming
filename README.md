@@ -1,4 +1,4 @@
-# Object-Oriented Programming Lab (Python)
+# Object-Oriented Programming
 
 ## 📌 Overview
 This repository contains implementations of core Object-Oriented Programming (OOP) concepts using Python.  
